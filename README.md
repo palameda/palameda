@@ -31,7 +31,7 @@
   <img src=https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white>
   <img src=https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white>
   <img src=https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palameda&langs_count=8&layout=compact" alt="palameda's top 8 langs"> <br> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palameda&theme=react&langs_count=8&layout=compact" alt="palameda's top 8 langs"> <br> 
 </p>
 
 <h2><i>Инструменты</i></h2><br>
@@ -50,9 +50,7 @@
 
 <h2><i>Немного статистики</i></h2><br>
 <p>
-  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=palameda" alt="GitHub Stats" />    
-</p>
-<p>
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=palameda&show_icons=true" alt="bouaskaoun">
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=palameda&theme=react&show_icons=true&include_all_commits=true" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palameda&theme=react&layout=compact" />
 </p>
 </div>
