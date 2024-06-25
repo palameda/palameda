@@ -1,6 +1,4 @@
-header
-
-contacts
+![Header]
 
 about me
 
@@ -8,4 +6,6 @@ tech
 
 tools
 
-cards
+projects
+
+activity
