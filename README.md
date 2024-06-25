@@ -50,9 +50,9 @@
 
 <h2><i>Немного статистики</i></h2><br>
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=palameda" alt="GitHub Stats" />    
+  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=palameda" alt="GitHub Stats" />    
 </p>
 <p>
-	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=palameda&show_icons=true" alt="bouaskaoun">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=palameda&show_icons=true" alt="bouaskaoun">
 </p>
 </div>
