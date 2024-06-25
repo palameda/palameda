@@ -12,7 +12,7 @@
   </a>
 </div>
 <p>
-Меня зовут Станислав. Я начинающий разработчик с практическим опытом проектирования и разработки различных решений. В настоящий момент занимаюсь проектной деятельностью и активным поиском работы в IT. Свободное время посвящаю чтению, музыке, треккингу и решению задач на leetcode <img src=https://badges.peiyuan.ch/leetcode/stanislav_mazurenko//rate?difficulty=all> и codewars <img src=https://www.codewars.com/users/stanislav.mazurenko/badges/micro>
+Меня зовут Станислав. Я начинающий разработчик с практическим опытом проектирования и разработки различных решений. В настоящий момент занимаюсь проектной деятельностью и активным поиском работы в IT. Свободное время посвящаю чтению, музыке, треккингу и решению задач на <a href="https://leetcode.com/u/stanislav_mazurenko/">leetcode</a> <img src=https://badges.peiyuan.ch/leetcode/stanislav_mazurenko//rate?difficulty=all> и <a href="https://www.codewars.com/users/stanislav.mazurenko">codewars</a> <img src=https://www.codewars.com/users/stanislav.mazurenko/badges/micro>
 </p>
 <div align="center">
 <h2><i>Языки и технологии</i></h2><br>
@@ -50,7 +50,7 @@
 
 <h2><i>Немного статистики</i></h2><br>
 <p>
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=palameda&theme=react&show_icons=true&include_all_commits=true" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=palameda&theme=react&show_icons=true" />
   <img height= "150" src="https://github-readme-streak-stats.herokuapp.com/?user=palameda&theme=react" >
 </p>
 </div>
