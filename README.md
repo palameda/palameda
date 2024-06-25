@@ -1,6 +1,7 @@
 <div align = "center">
-  <img src=https://github.com/palameda/palameda/blob/main/assets/header.png>
-  <h2> Привет и добро пожаловать в мой профиль на Github! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
+  <img src=https://github.com/palameda/palameda/blob/main/assets/header.png><br>
+  <!---<img src="https://komarev.com/ghpvc/?username=palameda&style=flat-square">--->
+  <h2> Привет и добро пожаловать в мой профиль на Github! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2> 
   <a href="https://t.me/palameda">
     <img src=https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white>
   </a>
